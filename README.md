@@ -1,2 +1,2 @@
-# C-programs
+# C sharp programs
 Logical Programs 
